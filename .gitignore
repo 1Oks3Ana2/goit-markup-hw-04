@@ -1,0 +1,7 @@
+# MacOS system folder
+
+.DS_Store
+
+# Exclude SVG files
+
+/icons
