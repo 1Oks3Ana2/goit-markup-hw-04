@@ -261,8 +261,7 @@ img {
 }
 
 .features-list .item {
-  /* width: 270px; */
-  width: calc((100% -90px) / 4);
+  width: calc((100% - 90px) / 4);
 }
 
 .features-list .item:not(:last-child) {
